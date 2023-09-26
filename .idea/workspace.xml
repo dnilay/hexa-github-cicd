@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab6d29ff-0cb2-4516-ac1f-fed34847ee97" name="Changes" comment="too lazy to commit">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/master.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
       <workItem from="1688401811613" duration="1045000" />
       <workItem from="1688402871549" duration="49000" />
       <workItem from="1688402923753" duration="3641000" />
-      <workItem from="1695728987639" duration="1012000" />
+      <workItem from="1695728987639" duration="1229000" />
     </task>
     <task id="LOCAL-00001" summary="too lazy to commit">
       <created>1688402966015</created>
@@ -91,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695729759377</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="too lazy to commit">
+      <option name="closed" value="true" />
+      <created>1695730005985</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695730005985</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
